@@ -107,3 +107,11 @@ A free, professional, open-source financial analysis and quantitative trading MC
 # Project Documentation Link
 https://docs.google.com/document/d/1CZzvKKfqVmA_4WiJ95LVN8QF8Pk4zTjh/edit?usp=sharing&ouid=114031199738772192172&rtpof=true&sd=true
 
+# Hosted Link (Netlify)
+https://teamcode-ai-budgetiq.netlify.app/
+
+# Login Credentials
+- **Username**: demo@123
+- **password**: 123
+
+
