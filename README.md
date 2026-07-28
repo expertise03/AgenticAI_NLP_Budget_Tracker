@@ -1,14 +1,14 @@
-# RAG
+# BudgetT
 Comprehensive Personalized Budget Tracker for Students and Interns  An intelligent multi-agent financial assistant designed to help students and academicians manage, predict, and optimize their personal finances using advanced AI techniques like RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol). 
 
 # Comprehensive Personalized Budget Tracker for Students and Interns
 
 ## Project Description
-RAGFIN is an intelligent financial management platform built to tackle the complexity of personal finance through artificial intelligence. In today's fast-paced world, managing expenses, tracking spending patterns, and making informed financial decisions has become increasingly challenging. BudgetIQ addresses these pain points by leveraging AI to transform complex financial data into actionable insights, providing users with a comprehensive yet intuitive financial management experience.
+BudgetT is an intelligent financial management platform built to tackle the complexity of personal finance through artificial intelligence. In today's fast-paced world, managing expenses, tracking spending patterns, and making informed financial decisions has become increasingly challenging. BudgetIQ addresses these pain points by leveraging AI to transform complex financial data into actionable insights, providing users with a comprehensive yet intuitive financial management experience.
 
 Our platform analyzes transaction patterns, predicts future expenses, and offers personalized recommendations tailored to each user's financial habits. With features ranging from automated receipt scanning to multi-currency support, RAGFin empowers users to take control of their financial health regardless of their financial literacy level.
 
-## Why RAGFin?
+## Why BudgetT?
 - **Financial Visibility Gap**: Most people lack clear insight into their spending patterns and financial health
 - **Manual Tracking Burden**: Traditional expense tracking is time-consuming and error-prone
 - **Financial Literacy Barrier**: Complex financial planning requires expertise most users don't possess
@@ -55,15 +55,15 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 - **Caching**: Redis
 
 ### AI/ML
-- **Core ML**: TensorFlow.js
+- **Core ML**: ML Algorithms - Random Forest, Ensemble Models
 - **Natural Language Processing**: For financial assistant and transaction categorization
-- **Computer Vision**: OpenCV, Tesseract OCR for receipt processing
+- **Computer Vision**: OpenCV, OCR for receipt processing
 - **Predictive Models**: Custom algorithms for expense forecasting
 
 ### Cloud Infrastructure
 - **Services**: AWS Lambda, Amazon S3
 - **CI/CD**: GitHub Actions
-- **Deployment**: Vercel
+- **Deployment**: Netlify
 
 ## Challenges Faced
 
