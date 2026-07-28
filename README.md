@@ -61,9 +61,10 @@ Our platform analyzes transaction patterns, predicts future expenses, and offers
 - **Predictive Models**: Custom algorithms for expense forecasting
 
 ### Cloud Infrastructure
-- **Services**: AWS Lambda, Amazon S3
+- **Services**: AWS Lambda, Amazon S3, Glue, API Gateway
+- **AI/ML**: Amazon Sagemaker
 - **CI/CD**: GitHub Actions
-- **Deployment**: Netlify
+- **Deployment**: Netlify, AWS 
 
 ## Challenges Faced
 
