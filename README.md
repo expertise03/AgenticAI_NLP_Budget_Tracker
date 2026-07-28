@@ -1,7 +1,7 @@
 # BudgetT
 Comprehensive Personalized Budget Tracker for Students and Interns  An intelligent multi-agent financial assistant designed to help students and academicians manage, predict, and optimize their personal finances using advanced AI techniques like RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol). 
 
-# Comprehensive Personalized Budget Tracker for Students and Interns
+# Comprehensive Personalized Budget Tracker for Tour and Daily Life
 
 ## Project Description
 BudgetT is an intelligent financial management platform built to tackle the complexity of personal finance through artificial intelligence. In today's fast-paced world, managing expenses, tracking spending patterns, and making informed financial decisions has become increasingly challenging. BudgetIQ addresses these pain points by leveraging AI to transform complex financial data into actionable insights, providing users with a comprehensive yet intuitive financial management experience.
